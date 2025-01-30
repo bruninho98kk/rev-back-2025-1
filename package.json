@@ -1,0 +1,16 @@
+{
+  "name": "rev-back",
+  "version": "1.0.0",
+  "description": "projeto de revisao back end senai 2025",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "senai",
+    "backend",
+    "nodejs"
+  ],
+  "author": "Bruno Quintino",
+  "license": "MIT"
+}
